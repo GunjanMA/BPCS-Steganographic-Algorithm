@@ -9,7 +9,7 @@ Note that with BPCS, the hidden message doesn't have to be text. It can be any f
 
 You could upload a profile photo to a website that contains a secret image. Or you could embed an image of a turtle inside an image of a turtle inside an image...turtles all the way down.
 
-This is an implementation of the method discussed in: Kawaguchi, Eiji, and Richard O. Eason. "Principles and applications of BPCS steganography." In Photonics East (ISAM, VVDC, IEMB), pp. 464-473. International Society for Optics and Photonics, 1999. ([pdf](http://web.eece.maine.edu/~eason/steg/SPIE98.pdf))
+This is an implementation of the method discussed in: Kawaguchi, Eiji, and Richard O. Eason. "Principles and applications of BPCS steganography." In Photonics East (ISAM, VVDC, IEMB), pp. 464-473. International Society for Optics and Photonics, 1999.
 
 ### Encoding and decoding
 
